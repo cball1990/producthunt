@@ -1,0 +1,20 @@
+{
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./producthunt",
+        "-p",
+        "*test.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.unittestEnabled": true,
+    "python.linting.pycodestyleEnabled": false,
+    "python.linting.pylintPath": "C:/Users/craig/AppData/Local/Programs/Python/Python38-32/python.exe",
+    "python.linting.pylintArgs": ["--load-plugins", "pylint_django"],
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "C:\\Users\\craig\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
+       
+      
+}
